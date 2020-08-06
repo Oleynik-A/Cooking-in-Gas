@@ -1,0 +1,33 @@
+Goals
+Add functionality from “Chrome Autofill Extension” to our custom solution “Cooking on Gas” (extension). 
+Currently Cooking on Gas does support Supreme, and Shopify.
+Functionality to be ported over is complete autofill for:
+Stripe
+Footlocker
+BigCartel
+Any regex field matches ie “First Name”, “City” etc
+
+Additional functionality needed:
+Checkbox for terms & Conditions
+Random Birthday (18-45yo), Must work on footlocker
+Both should have regex capacity to add additional fields
+
+Test sites
+https://cookingongas.io/checkout-simulator/
+https://shreyauth.com/ (account needed)
+https://www.a-ma-maniere.com/ (T&C tickbox test)
+https://www.footlocker.co.uk/
+
+https://we.tl/t-2zpAJdHwMG
+https://we.tl/t-5GhhCAZg3u
+
+https://www.labelnoirdesign.com/en/customizer/
+https://www.blaken.com/en/individual
+
+
+9972198000
+stagingweb.oyeti.com
+
+1 469 805 889
+
+wz89n1
